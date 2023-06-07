@@ -39,6 +39,11 @@ npm install -D tailwindcss postcss autoprefixer
 composer require livewire/livewire
 ```
 
+### Install Spatie ViewModel
+```
+composer require spatie/laravel-view-models
+```
+
 ### Compile Assets
 ```
 npm run dev
